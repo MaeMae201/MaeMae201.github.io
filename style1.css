@@ -8,6 +8,7 @@ h1 {
     color: firebrick;
     font-family: 'Patrick Hand', cursive;
     font-size: 7em;
+    text-decoration: blink;
 }
 
 h2 {
@@ -31,4 +32,7 @@ h3 {
 
 b {
     color: black !important;
+}
+h3 {
+    text-decoration: underline;
 }
