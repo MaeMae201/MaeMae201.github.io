@@ -2,7 +2,6 @@ body {
     background-image: url('bg.jpg');
     background-size: 100%;
     font-family: 'Open Sans', sans-serif;
-    /* background-repeat: no-repeat; */
 }
 
 h1 {
@@ -20,11 +19,11 @@ h3 {
     color: #b18194;
     font-family: 'Rancho', cursive;
     font-size: 3em;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 .about-me {
-    background-color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(255, 255, 255, 0.89);
     padding: 12px;
     margin: 10px;
     border-radius: 20px;
@@ -38,4 +37,41 @@ b {
 img.align-center {
     display: block;
     margin: 0px auto;
+}
+
+.Technical-Skills {
+    background-color: rgba(255, 255, 255, 0.89);
+    padding: 12px;
+    margin: 10px;
+    border-radius: 40px;
+    font-style: oblique;
+}
+
+.Courses {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 12px;
+    margin: 10px;
+    border-radius: 40px;
+    font-style: oblique;
+}
+
+.Extra-Activities {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 12px;
+    margin: 10px;
+    border-radius: 40px;
+    font-style: oblique;
+}
+
+.contact {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 12px;
+    margin: 10px;
+    border-radius: 40px;
+    font-style: oblique;
+    position: align-self center;
+    top: 0px;
+    left: 600px;
+    width: 600px;
+    background-image: ('/home/basecamp/pictures/proffesional.jpg');
 }
