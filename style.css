@@ -2,6 +2,7 @@ body {
     background-image: url('bg.jpg');
     background-size: 100%;
     font-family: 'Open Sans', sans-serif;
+    /* background-repeat: no-repeat; */
 }
 
 h1 {
@@ -32,4 +33,9 @@ h3 {
 
 b {
     color: black !important;
+}
+
+img.align-center {
+    display: block;
+    margin: 0px auto;
 }
