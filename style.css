@@ -46,12 +46,19 @@ img.align-center {
     border-radius: 40px;
     font-style: oblique;
 }
-
+.resume {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 12px;
+    margin: 10px;
+    border-radius: 70px;
+    font-style: oblique;
+    font-size: 3em;
+}
 .Courses {
     background-color: rgba(255, 255, 255, 0.7);
     padding: 12px;
     margin: 10px;
-    border-radius: 40px;
+    border-radius: 70px;
     font-style: oblique;
 }
 
@@ -59,7 +66,7 @@ img.align-center {
     background-color: rgba(255, 255, 255, 0.7);
     padding: 12px;
     margin: 10px;
-    border-radius: 40px;
+    border-radius: 70px;
     font-style: oblique;
 }
 
@@ -67,7 +74,7 @@ img.align-center {
     background-color: rgba(255, 255, 255, 0.7);
     padding: 12px;
     margin: 10px;
-    border-radius: 40px;
+    border-radius: 70px;
     font-style: oblique;
     position: align-self center;
     top: 0px;
@@ -79,7 +86,7 @@ img.align-center {
     background-color: rgba(255, 255, 255, 0.7);
     padding: 12px;
     margin: 10px;
-    border-radius: 40px;
+    border-radius: 70px;
     font-style: oblique;
 }
 
@@ -87,7 +94,7 @@ img.align-center {
     background-color: rgba(255, 255, 255, 0.7);
     padding: 12px;
     margin: 10px;
-    border-radius: 40px;
+    border-radius: 70px;
     font-style: oblique;
 }
 
