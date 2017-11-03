@@ -46,6 +46,7 @@ img.align-center {
     border-radius: 40px;
     font-style: oblique;
     font-size: 1.3em;
+    font-family: 'Times New Roman', Times, serif;
 }
 .resume {
     background-color: rgba(255, 255, 255, 0.7);
@@ -62,6 +63,7 @@ img.align-center {
     border-radius: 70px;
     font-style: oblique;
     font-size: 1.3em;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .Extra-Activities {
@@ -71,6 +73,8 @@ img.align-center {
     border-radius: 70px;
     font-style: oblique;
     font-size: 1.3em;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(212, 134, 180);
 }
 
 .contact {
@@ -110,4 +114,12 @@ img.align-center {
 
 .dropdown-menu {
     direction: url('https://www.linkedin.com/in/maegan-avant-a1360a149/');
+}
+
+.extra_extra {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 12px;
+    margin: 10px;
+    border-radius: 40px;
+    font-size: 2em;
 }
